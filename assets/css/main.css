@@ -762,13 +762,14 @@
 }
 
 .container__videos-shop--link {
+    display: block;
     text-decoration: none;
     background-color: transparent;
 }
 
 .container__videos-shop--img {
     display: block;
-    width: 100%;
+    /* width: 100%; */
     height: 264px;
     border-radius: 4px;
     margin-left: 10px;
